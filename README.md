@@ -23,8 +23,8 @@
 <div align="left">
   <a href="https://www.behance.net/shwtasha_melnykova" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="42" height="30" alt="behance logo"  />
-    <p>Design portfolio</p>
   </a>
+   <span>Design portfolio</span>
 </div>
 
 ###
